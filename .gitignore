@@ -11,15 +11,20 @@
 *.userprefs
 
 # Build results
-[Dd]ebug/
+#[Dd]ebug/
 [Dd]ebugPublic/
 [Rr]elease/
 [Rr]eleases/
 x64/
 x86/
 bld/
-[Bb]in/
+#[Bb]in/
 [Oo]bj/
+FileSystemLogger.exe.config
+FileSystemLogger.pdb
+FileSystemLogger.vshost.exe
+FileSystemLogger.vshost.exe.config
+FileSystemLogger.vshost.exe.manifest
 
 # Visual Studio 2015 cache/options directory
 .vs/
